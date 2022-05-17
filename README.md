@@ -1,4 +1,4 @@
-👋 Hi, I’m Riven, A simple Computer Science Student 
+👋 Hi, I’m Ervin, A simple Computer Science Student 
 
  Interested in XR, AI and Robots.
 
