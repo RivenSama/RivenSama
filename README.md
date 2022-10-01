@@ -1,6 +1,8 @@
 👋 Hi, I’m Ervin, A simple Computer Science Student 
 
  Interested in XR, AI and Robots.
+ 
+ I am always in search of new opportunities to learn, develop my skills and to satisfy my evergrowing curiosity.
 
 One of my favourite quote is : 
 "Sometimes it works, sometimes it doesn't" - Uraz C. Turker
