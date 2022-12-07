@@ -1,4 +1,4 @@
-👋 Hi, I’m Ervin, A simple Computer Science Student 
+👋 Hi, I’m Ervin,Computer Science Student at the University of Leicester
 
  Interested in XR, AI and Robots.
  
